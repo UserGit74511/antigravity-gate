@@ -1,0 +1,10 @@
+/target
+.cargo/
+.vscode/
+.idea/
+*.log
+.env*
+*.exe
+*.pdb
+Thumbs.db
+desktop.ini
